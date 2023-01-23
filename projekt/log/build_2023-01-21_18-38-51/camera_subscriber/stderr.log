@@ -1,0 +1,7 @@
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+  File "/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py", line 23
+    cv2.rectangle(img, self.point, (self.pointdir = 0
+                                    ^^^^^^^^^^^^^
+SyntaxError: cannot assign to attribute here. Maybe you meant '==' instead of '='?
+

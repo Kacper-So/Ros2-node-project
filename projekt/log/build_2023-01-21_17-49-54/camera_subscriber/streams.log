@@ -1,0 +1,27 @@
+[1.520s] Invoking command in '/home/kacper/projekt/src/camera_subscriber': PYTHONPATH=/home/kacper/projekt/build/camera_subscriber/prefix_override:/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/kacper/projekt/build/camera_subscriber/build install --record /home/kacper/projekt/build/camera_subscriber/install.log --single-version-externally-managed
+[1.978s] running egg_info
+[1.979s] writing ../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[1.979s] writing dependency_links to ../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[1.981s] writing entry points to ../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[1.981s] writing requirements to ../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[1.982s] writing top-level names to ../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[1.982s] reading manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.985s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.985s] running build
+[1.987s] running build_py
+[1.987s] copying camera_subscriber/camera_node.py -> /home/kacper/projekt/build/camera_subscriber/build/lib/camera_subscriber
+[1.988s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.988s]   warnings.warn(
+[1.988s] running install
+[1.989s] running install_lib
+[1.989s] copying /home/kacper/projekt/build/camera_subscriber/build/lib/camera_subscriber/camera_node.py -> /home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[1.989s] byte-compiling /home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py to camera_node.cpython-310.pyc
+[1.989s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (camera_node.py, line 20)
+[1.990s] running install_data
+[1.990s] running install_egg_info
+[1.994s] removing '/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[1.994s] Copying ../../build/camera_subscriber/camera_subscriber.egg-info to /home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[1.995s] running install_scripts
+[2.030s] Installing camera_node script to /home/kacper/projekt/install/camera_subscriber/lib/camera_subscriber
+[2.030s] writing list of installed files to '/home/kacper/projekt/build/camera_subscriber/install.log'
+[2.091s] Invoked command in '/home/kacper/projekt/src/camera_subscriber' returned '0': PYTHONPATH=/home/kacper/projekt/build/camera_subscriber/prefix_override:/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/kacper/projekt/build/camera_subscriber/build install --record /home/kacper/projekt/build/camera_subscriber/install.log --single-version-externally-managed

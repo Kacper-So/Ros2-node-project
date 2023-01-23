@@ -1,0 +1,23 @@
+[2.356s] Invoking command in '/home/kacper/projekt/src/camera_subscriber': PYTHONPATH=/home/kacper/projekt/build/camera_subscriber/prefix_override:/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/kacper/projekt/build/camera_subscriber/build install --record /home/kacper/projekt/build/camera_subscriber/install.log --single-version-externally-managed
+[3.082s] running egg_info
+[3.084s] writing ../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[3.085s] writing dependency_links to ../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[3.085s] writing entry points to ../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[3.085s] writing requirements to ../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[3.086s] writing top-level names to ../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[3.090s] reading manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[3.095s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.095s]   warnings.warn(
+[3.096s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[3.096s] running build
+[3.096s] running build_py
+[3.096s] running install
+[3.097s] running install_lib
+[3.098s] running install_data
+[3.101s] running install_egg_info
+[3.106s] removing '/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[3.107s] Copying ../../build/camera_subscriber/camera_subscriber.egg-info to /home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[3.107s] running install_scripts
+[3.173s] Installing camera_node script to /home/kacper/projekt/install/camera_subscriber/lib/camera_subscriber
+[3.174s] writing list of installed files to '/home/kacper/projekt/build/camera_subscriber/install.log'
+[3.257s] Invoked command in '/home/kacper/projekt/src/camera_subscriber' returned '0': PYTHONPATH=/home/kacper/projekt/build/camera_subscriber/prefix_override:/home/kacper/projekt/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/kacper/projekt/build/camera_subscriber/build install --record /home/kacper/projekt/build/camera_subscriber/install.log --single-version-externally-managed
